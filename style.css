@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+.banner_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_text h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    
+    color: #121212;
+    width: 524px;
+height: 237px;
+}
+
+
+.banner_text p {  
+width: 471px;
+height: 84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #707070;
+}
+
+.donate_now_btn{
+    width: 160px;
+    height: 56px;
+    border: 0;
+    background: #FF5959;
+    border-radius: 5px;
+    font-size: 20px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+
+.video_btn{
+
+    font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: #707070;
+border: 0;
+background-color: transparent;
+cursor: pointer;
+margin-left: 20px;
+}
