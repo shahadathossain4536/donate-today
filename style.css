@@ -178,3 +178,85 @@ color: #FFFFFF;
 cursor: pointer;
 margin-top: 10px;
 }
+
+.donate_plan_head h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 54px;
+text-align: center;
+
+color: #121212;
+}
+
+.donate_plan_head p{
+    text-align: center;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+
+color: #707070;
+}
+
+.donate_plan_body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.donate_plan_body_1{
+
+width: 360px;
+height: 352px;
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+padding: 30px;
+}
+.donate_plan_heading{
+width: 204px;
+height: 36px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #121212;
+}
+
+.donate_plan_p{
+  
+width: 315px;
+height: 101px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #707070;
+}
+.donate_plan_body_2{
+
+width: 360px;
+height: 352px;
+
+
+background: rgba(255, 89, 89, 0.1);
+border-radius: 5px;
+}
+.donate_plan_body_3{
+
+width: 360px;
+height: 352px;
+
+
+background: #FFF4D6;
+border-radius: 5px;
+}
